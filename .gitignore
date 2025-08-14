@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Virtual Environment
+venv/
+.env/
+.env.bak/
+
+# Scrapy cache
+.scrapy/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OneDrive metadata
+*.tmp
+~$*
+Thumbs.db
+.DS_Store
